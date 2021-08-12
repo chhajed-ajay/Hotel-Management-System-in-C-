@@ -1,1 +1,0 @@
-void available_rooms(void);
